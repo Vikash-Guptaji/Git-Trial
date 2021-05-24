@@ -1,2 +1,2 @@
-utilities for first version4
+utilities for first version diff check
 assume that this file contains so much utility code of any software just asumme lol.
