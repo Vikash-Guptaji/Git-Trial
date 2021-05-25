@@ -1,2 +1,0 @@
-utilities for first version3
-assume that this file contains so much utility code of any software just asumme lol.

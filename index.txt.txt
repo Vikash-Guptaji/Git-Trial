@@ -1,2 +1,0 @@
-First version2 of software (learning git)
-assume that this file contains so much code of any software just asumme lol.
